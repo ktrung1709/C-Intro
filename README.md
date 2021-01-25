@@ -1,2 +1,4 @@
 # C-Intro
-Khánh Trung - 20205133
+Project
+Nguyễn Khánh Trung - 20205133
+Nguyễn Hoàng Hải - 20200193
