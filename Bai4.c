@@ -6,7 +6,7 @@ int main (){
     int i, j, x, count, a;
     srand(time(NULL));
     char number[13][3] = {"A","2","3","4","5","6","7","8","9","10","J","Q","K"};
-    char type [4][5] = {"Co","Do","Bich","Tep"};
+    char type [4][5] = {"Co","Ro","Bich","Tep"};
     bool c[13][4];
     bool hand[13][4]; //bool de kiem tra tu quy//
     for (i=0;i<13;i++)
